@@ -380,8 +380,7 @@ with st.sidebar:
     enable_semantic = st.checkbox("Enable semantic search", value=True)
     enable_replies = st.checkbox("Auto-draft replies for negative reviews", value=False)
 
-    st.markdown("### 🔑 API Key Optional")
-    groq_key = st.text_input("Groq API key", type="password")
+    
 
    
 
