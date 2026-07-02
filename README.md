@@ -12,7 +12,7 @@ Built with **Python, Streamlit, Transformers, Sentence Transformers, FAISS, Scik
 ## 🚀 Live Demo
 
 🔗 **Streamlit App:**  
-(https://agentic-ai-customer-review-analyzer-ku45djxfsnnnupijnyqqxa.streamlit.app/)
+https://agentic-ai-customer-review-analyzer-ku45djxfsnnnupijnyqqxa.streamlit.app/
 
 ---
 
